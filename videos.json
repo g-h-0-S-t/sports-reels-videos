@@ -1,20 +1,4 @@
 {
   "videos": [
-    {
-      "id": "1746473942045",
-      "celebrityName": "Usain Bolt",
-      "title": "Usain Bolt",
-      "description": "Usain Bolt",
-      "customScript": "Usain St. Leo Bolt (/ˈjuːseɪn/;[12] born 21 August 1986) is a Jamaican retired sprinter who is widely considered to be the greatest sprinter of all time.[13][14][15] He is an eight-time Olympic gold medalist and the world record holder in the 100 metres, 200 metres, and 4 × 100 metres relay.",
-      "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/usain-bolt-history.mp4"
-    },
-    {
-      "id": "1746474297591",
-      "celebrityName": "Tiger Woods",
-      "title": "Tiger Woods",
-      "description": "Tiger Woods",
-      "customScript": "Eldrick Tont \"Tiger\" Woods (born December 30, 1975) is an American professional golfer. He is tied for first in PGA Tour wins, ranks second in men's major championships, and holds numerous golf records.[4] Woods is widely regarded as one of the greatest golfers of all time and is one of the most famous athletes in modern history.[4] He is an inductee of the World Golf Hall of Fame.[5]",
-      "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/tiger-woods-history.mp4"
-    }
   ]
 }
