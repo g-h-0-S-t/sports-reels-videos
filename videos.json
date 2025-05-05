@@ -20,6 +20,13 @@
       "title": "LeBron James",
       "description": "LeBron James",
       "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/lebron-james-history.mp4"
+    },
+    {
+      "id": 4,
+      "celebrityName": "Sachin Tendulkar",
+      "title": "Sachin Tendulkar",
+      "description": "Sachin Tendulkar",
+      "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/sachin-tendulkar-history.mp4"
     }
   ]
 }
