@@ -13,6 +13,13 @@
       "title": "Usain Bolt",
       "description": "Usain Bolt",
       "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/usain-bolt-history.mp4"
+    },
+    {
+      "id": 3,
+      "celebrityName": "LeBron James",
+      "title": "LeBron James",
+      "description": "LeBron James",
+      "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/lebron-james-history.mp4"
     }
   ]
 }
