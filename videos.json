@@ -27,6 +27,13 @@
       "title": "Sachin Tendulkar",
       "description": "Sachin Tendulkar",
       "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/sachin-tendulkar-history.mp4"
+    },
+    {
+      "id": 5,
+      "celebrityName": "Mary Kom",
+      "title": "Mary Kom",
+      "description": "Mary Kom",
+      "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/mary-kom-history.mp4"
     }
   ]
 }
