@@ -1,3 +1,12 @@
 {
-  "videos": []
+  "videos": [
+    {
+      "id": "1746464945998",
+      "celebrityName": "Sachin Tendulkar",
+      "title": "Sachin Tendulkar",
+      "description": "Sachin Tendulkar",
+      "customScript": "Sachin Ramesh Tendulkar, born 24 April 1973 is an Indian former international cricketer who captained the Indian national team. He is widely regarded as one of the greatest cricketers of all time, and is the holder of several world records, including being the all-time highest run-scorer in both ODI and Test cricket, receiving the most player of the match awards in international cricket, and being the only batsman to score 100 international centuries. Tendulkar was a Member of Parliament, Rajya Sabha by presidential nomination from 2012 to 2018.",
+      "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/sachin-tendulkar-history.mp4"
+    }
+  ]
 }
