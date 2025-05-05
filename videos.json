@@ -1,36 +1,3 @@
 {
-  "videos": [
-    {
-      "id": "1746442211094",
-      "celebrityName": "Lionel Messi",
-      "title": "Lionel Messi's Journey",
-      "description": "A brief history of Messi's rise to football stardom.",
-      "customScript": "Lionel Messi, the Argentine wizard, born in 1987, redefined football with his magical dribbling and pinpoint vision! From Rosario to global glory, he’s clinched 7 Ballon d’Ors, leading Barcelona and Argentina to epic triumphs. The GOAT’s legacy shines brighter than a supernova!",
-      "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/lionel-messi-history.mp4"
-    },
-    {
-      "id": "1746453328344",
-      "celebrityName": "Serena Williams",
-      "title": "Serena Williams' Legacy",
-      "description": "Highlights of Serena's tennis career.",
-      "customScript": "Serena Williams, the queen of tennis, stormed the courts with ferocious power! Born in 1981, she smashed records, winning 23 Grand Slams and 4 Olympic golds. Her unrivaled dominance and fiery spirit redefined the game, making her a global icon of greatness!",
-      "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/serena-williams-history.mp4"
-    },
-    {
-      "id": "1746458295206",
-      "celebrityName": "sania mirza tennis",
-      "title": "sania mirza tennis",
-      "description": "sania mirza tennis",
-      "customScript": "Sania Mirza is an Indian former professional tennis player. A former doubles world No. 1, she won six major titles – three in women's doubles and three in mixed doubles. From 2003 until her retirement from singles in 2013, she was ranked by the Women's Tennis Association as the No. 1 Indian in singles. Throughout her career, Mirza has established herself as one of the most known, highest-paid, and influential athletes in India.",
-      "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/sania-mirza-tennis-history.mp4"
-    },
-    {
-      "id": "1746463084651",
-      "celebrityName": "michael jordan",
-      "title": "michael jordan",
-      "description": "michael jordan",
-      "customScript": "Michael Jordan, born February 17, 1963, is widely regarded as the greatest basketball player of all time. A six-time NBA champion with the Chicago Bulls, he earned five MVP awards, ten scoring titles, and six Finals MVPs. His athleticism, clutch performances, and competitive drive redefined the sport. Off the court, Jordan’s Air Jordan brand revolutionized sneaker culture, and his global influence made him a cultural icon. He also played minor league baseball, starred in Space Jam, and is a successful businessman, owning the Charlotte Hornets.",
-      "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/michael-jordan-history.mp4"
-    }
-  ]
+  "videos": []
 }
