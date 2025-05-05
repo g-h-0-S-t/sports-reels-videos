@@ -1,3 +1,11 @@
 {
-  "videos": []
+  "videos": [
+    {
+      "id": 1,
+      "celebrityName": "Usain Bolt",
+      "title": "Usain Bolt",
+      "description": "Usain Bolt",
+      "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/usain-bolt-history.mp4"
+    }
+  ]
 }
