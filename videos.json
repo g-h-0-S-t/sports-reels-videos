@@ -1,18 +1,3 @@
 {
-  "videos": [
-    {
-      "id": 1,
-      "celebrityName": "Tiger Woods",
-      "title": "Tiger Woods",
-      "description": "Tiger Woods",
-      "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/tiger-woods-history.mp4"
-    },
-    {
-      "id": 2,
-      "celebrityName": "Usain Bolt",
-      "title": "Usain Bolt",
-      "description": "Usain Bolt",
-      "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/usain-bolt-history.mp4"
-    }
-  ]
+  "videos": []
 }
