@@ -13,6 +13,13 @@
       "title": "Tiger Woods",
       "description": "Tiger Woods",
       "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/tiger-woods-history.mp4"
+    },
+    {
+      "id": 3,
+      "celebrityName": "Sachin Tendulkar",
+      "title": "Sachin Tendulkar | Little Master | Master Blaster",
+      "description": "Sachin Ramesh Tendulkar",
+      "videoUrl": "https://raw.githubusercontent.com/g-h-0-S-t/sports-reels-videos/main/videos/sachin-tendulkar-history.mp4"
     }
   ]
 }
